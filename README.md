@@ -7,6 +7,7 @@ Pipeline de veille **IA × Géomatique** : Grok produit les briefs, un agent Cla
 ```
 veilles/
   2026-10-02_geoai.md   # Brief du 30 sept. → 2 oct. 2026
+  2026-10-03_geoai.md   # Complément 1–3 oct. 2026 (Altair-1, FAME, TESSERA, AAG)
 ```
 
 ## Convention
@@ -19,4 +20,5 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-10-03 | `veilles/2026-10-03_geoai.md` | Grok |
 | 2026-10-02 | `veilles/2026-10-02_geoai.md` | Grok |
