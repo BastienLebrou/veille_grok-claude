@@ -10,6 +10,7 @@ veilles/
   2026-10-03_geoai.md   # Complément 1–3 oct. 2026 (Altair-1, FAME, TESSERA, AAG)
   2026-10-04_geoai.md   # Complément 2–4 oct. 2026 (Earth splats, GeoAgent, GEE AI, EarthPV)
   2026-10-05_geoai.md   # Complément 3–5 oct. 2026 (supervision géographique, GeoAI.js, Antarctique, LiDAR orbital)
+  2026-10-06_geoai.md   # Complément 4–6 oct. 2026 (MOI-1A / Transporter-18, plugin QGIS, postes GeoAI)
 ```
 
 ## Convention
@@ -22,6 +23,7 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-10-06 | `veilles/2026-10-06_geoai.md` | Grok |
 | 2026-10-05 | `veilles/2026-10-05_geoai.md` | Grok |
 | 2026-10-04 | `veilles/2026-10-04_geoai.md` | Grok |
 | 2026-10-03 | `veilles/2026-10-03_geoai.md` | Grok |
