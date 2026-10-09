@@ -13,6 +13,7 @@ veilles/
   2026-10-06_geoai.md   # Complément 4–6 oct. 2026 (MOI-1A / Transporter-18, plugin QGIS, postes GeoAI)
   2026-10-07_geoai.md   # Complément 5–7 oct. 2026 (PDFM / Earth AI santé, agent Sentinel-2 AWS)
   2026-10-08_geoai.md   # Complément 6–8 oct. 2026 (Platerra, EmbeddingGemma 2, pplx-embed-v2-late, Haiku 5.5)
+  2026-10-09_geoai.md   # Complément 7–9 oct. 2026 (eau S1 + AlphaEarth, GIS Cloud MCP, radar Element 84)
 ```
 
 ## Convention
@@ -25,6 +26,7 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-10-09 | `veilles/2026-10-09_geoai.md` | Grok |
 | 2026-10-08 | `veilles/2026-10-08_geoai.md` | Grok |
 | 2026-10-07 | `veilles/2026-10-07_geoai.md` | Grok |
 | 2026-10-06 | `veilles/2026-10-06_geoai.md` | Grok |
