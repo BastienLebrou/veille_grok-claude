@@ -14,6 +14,8 @@ veilles/
   2026-10-07_geoai.md   # Complément 5–7 oct. 2026 (PDFM / Earth AI santé, agent Sentinel-2 AWS)
   2026-10-08_geoai.md   # Complément 6–8 oct. 2026 (Platerra, EmbeddingGemma 2, pplx-embed-v2-late, Haiku 5.5)
   2026-10-09_geoai.md   # Complément 7–9 oct. 2026 (eau S1 + AlphaEarth, GIS Cloud MCP, radar Element 84)
+  2026-10-10_geoai.md   # Complément 8–10 oct. 2026 (GIS Cloud AI, OpenEarthAgent, Platerra, Safe Pro, Hanwha)
+  2026-10-11_geoai.md   # Complément 9–11 oct. 2026 (MARS, GeoSeg-OV, TESSERA, GENIUS, agents)
 ```
 
 ## Convention
@@ -26,6 +28,8 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-10-11 | `veilles/2026-10-11_geoai.md` | Grok |
+| 2026-10-10 | `veilles/2026-10-10_geoai.md` | Grok |
 | 2026-10-09 | `veilles/2026-10-09_geoai.md` | Grok |
 | 2026-10-08 | `veilles/2026-10-08_geoai.md` | Grok |
 | 2026-10-07 | `veilles/2026-10-07_geoai.md` | Grok |
