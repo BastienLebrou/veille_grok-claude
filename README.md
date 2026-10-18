@@ -16,6 +16,13 @@ veilles/
   2026-10-09_geoai.md   # Complément 7–9 oct. 2026 (eau S1 + AlphaEarth, GIS Cloud MCP, radar Element 84)
   2026-10-10_geoai.md   # Complément 8–10 oct. 2026 (GIS Cloud AI, OpenEarthAgent, Platerra, Safe Pro, Hanwha)
   2026-10-11_geoai.md   # Complément 9–11 oct. 2026 (MARS, GeoSeg-OV, TESSERA, GENIUS, agents)
+  2026-10-12_geoai.md   # ...
+  2026-10-13_geoai.md   # ...
+  2026-10-14_geoai.md   # ...
+  2026-10-15_geoai.md   # ...
+  2026-10-16_geoai.md   # ...
+  2026-10-17_geoai.md   # Agents géospatiaux et infrastructure de données spatiales (Google GRA, HERE MCP, Hesai Kosmo)
+  2026-10-18_geoai.md   # Agents GIS open-source (RustGIS) et modèles EO auto-améliorants
 ```
 
 ## Convention
@@ -28,13 +35,13 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-10-18 | `veilles/2026-10-18_geoai.md` | Grok |
+| 2026-10-17 | `veilles/2026-10-17_geoai.md` | Grok |
+| 2026-10-16 | `veilles/2026-10-16_geoai.md` | Grok |
+| 2026-10-15 | `veilles/2026-10-15_geoai.md` | Grok |
+| 2026-10-14 | `veilles/2026-10-14_geoai.md` | Grok |
+| 2026-10-13 | `veilles/2026-10-13_geoai.md` | Grok |
+| 2026-10-12 | `veilles/2026-10-12_geoai.md` | Grok |
 | 2026-10-11 | `veilles/2026-10-11_geoai.md` | Grok |
 | 2026-10-10 | `veilles/2026-10-10_geoai.md` | Grok |
 | 2026-10-09 | `veilles/2026-10-09_geoai.md` | Grok |
-| 2026-10-08 | `veilles/2026-10-08_geoai.md` | Grok |
-| 2026-10-07 | `veilles/2026-10-07_geoai.md` | Grok |
-| 2026-10-06 | `veilles/2026-10-06_geoai.md` | Grok |
-| 2026-10-05 | `veilles/2026-10-05_geoai.md` | Grok |
-| 2026-10-04 | `veilles/2026-10-04_geoai.md` | Grok |
-| 2026-10-03 | `veilles/2026-10-03_geoai.md` | Grok |
-| 2026-10-02 | `veilles/2026-10-02_geoai.md` | Grok |
