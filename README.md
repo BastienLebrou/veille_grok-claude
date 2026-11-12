@@ -23,6 +23,8 @@ veilles/
   2026-10-16_geoai.md   # ...
   2026-10-17_geoai.md   # Agents géospatiaux et infrastructure de données spatiales (Google GRA, HERE MCP, Hesai Kosmo)
   2026-10-18_geoai.md   # Agents GIS open-source (RustGIS) et modèles EO auto-améliorants
+  ...
+  2026-11-12_geoai.md   # Esri ArcGIS GeoAI (MCP, EO-DINO), Axis Spatial benchmarks, Planet AI App, MapAI, GENIUS
 ```
 
 ## Convention
@@ -35,13 +37,13 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
-| 2026-10-18 | `veilles/2026-10-18_geoai.md` | Grok |
-| 2026-10-17 | `veilles/2026-10-17_geoai.md` | Grok |
-| 2026-10-16 | `veilles/2026-10-16_geoai.md` | Grok |
-| 2026-10-15 | `veilles/2026-10-15_geoai.md` | Grok |
-| 2026-10-14 | `veilles/2026-10-14_geoai.md` | Grok |
-| 2026-10-13 | `veilles/2026-10-13_geoai.md` | Grok |
-| 2026-10-12 | `veilles/2026-10-12_geoai.md` | Grok |
-| 2026-10-11 | `veilles/2026-10-11_geoai.md` | Grok |
-| 2026-10-10 | `veilles/2026-10-10_geoai.md` | Grok |
-| 2026-10-09 | `veilles/2026-10-09_geoai.md` | Grok |
+| 2026-11-12 | `veilles/2026-11-12_geoai.md` | Grok |
+| 2026-11-11 | `veilles/2026-11-11_geoai.md` | Grok |
+| 2026-11-10 | `veilles/2026-11-10_geoai.md` | Grok |
+| 2026-11-09 | `veilles/2026-11-09_geoai.md` | Grok |
+| 2026-11-07 | `veilles/2026-11-07_geoai.md` | Grok |
+| 2026-11-06 | `veilles/2026-11-06_geoai.md` | Grok |
+| 2026-11-05 | `veilles/2026-11-05_geoai.md` | Grok |
+| 2026-11-04 | `veilles/2026-11-04_geoai.md` | Grok |
+| 2026-11-03 | `veilles/2026-11-03_geoai.md` | Grok |
+| 2026-11-02 | `veilles/2026-11-02_geoai.md` | Grok |
