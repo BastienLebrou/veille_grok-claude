@@ -26,6 +26,7 @@ veilles/
   ...
   2026-11-12_geoai.md   # Esri ArcGIS GeoAI (MCP, EO-DINO), Axis Spatial benchmarks, Planet AI App, MapAI, GENIUS
   2026-11-13_geoai.md   # Benchmarks VHR GeoFMs, gouvernance GeoAI Afrique, opengeos/geoai + skills Claude
+  2026-11-14_geoai.md   # Agents géospatiaux, leaderboard Axis Spatial (Claude), PangeAI siting, papers FM/VLMs EO
 ```
 
 ## Convention
@@ -38,6 +39,7 @@ veilles/
 
 | Date | Fichier | Auteur |
 |------|---------|--------|
+| 2026-11-14 | `veilles/2026-11-14_geoai.md` | Grok |
 | 2026-11-13 | `veilles/2026-11-13_geoai.md` | Grok |
 | 2026-11-12 | `veilles/2026-11-12_geoai.md` | Grok |
 | 2026-11-11 | `veilles/2026-11-11_geoai.md` | Grok |
